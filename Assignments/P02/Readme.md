@@ -14,6 +14,17 @@ This program is a sophisticated and user-friendly console application designed t
 |   4   | [json.hpp](https://github.com/thehighestbidder/3013-Algorithms/blob/main/Assignments/P02/json.hpp) | json file for program. |
 |   5   | [rang.hpp](https://github.com/thehighestbidder/3013-Algorithms/blob/main/Assignments/P02/rang.hpp)| rang file for the program. |
 
++--------------------------------------------------------------+
+| Example output with searching 'eg'                           |
+| eger egg-shaped eghen egoical egotheism egregiously egritude |
+|                                                              |
++--------------------------------------------------------------+
 
+
++------------------------------------------------+
+| Example output with searching 'blac'           |
+| black blackcock blackhead blacktail blackball  |
+|                                                |
++------------------------------------------------+
 
 
