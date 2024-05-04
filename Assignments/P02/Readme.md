@@ -17,7 +17,7 @@ This program is a sophisticated and user-friendly console application designed t
 +--------------------------------------------------------------+
 | Example output with searching 'eg'                           |
 | eger egg-shaped eghen egoical egotheism egregiously egritude |
-| e.t.c...                                                             |
+| e.t.c...                                                     |
 +--------------------------------------------------------------+
 
 
