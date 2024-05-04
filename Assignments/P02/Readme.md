@@ -19,6 +19,11 @@ This program is a sophisticated and user-friendly console application designed t
 | black blackcock blackhead blacktail blackball  |
 |                                                |
 +------------------------------------------------+
++------------------------------------------------+
+| Example output with searching 'blac'           |
+| black blackcock blackhead blacktail blackball  |
+|                                                |
++------------------------------------------------+
 
 
 +------------------------------------------------+
