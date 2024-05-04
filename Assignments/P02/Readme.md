@@ -10,7 +10,10 @@ This program is a sophisticated and user-friendly console application designed t
 | :---: | ---------------- | -------------------------------------------------- |
 |   1   |  [main.cpp](https://github.com/thehighestbidder/3013-Algorithms/blob/main/Assignments/P02/main.cpp) | Main driver of my project the program      |
 |   2   |  [console.hpp](https://github.com/thehighestbidder/3013-Algorithms/blob/main/Assignments/P02/console.hpp) | Console File for project      |
-|   3   |  | Helper class that assists with textures and images |
+|   3   | [dictionary_2mb.json](https://github.com/thehighestbidder/3013-Algorithms/blob/main/Assignments/P02/dictionary_2mb.json) | Dictionary for words |
+|   4   | [json.hpp](https://github.com/thehighestbidder/3013-Algorithms/blob/main/Assignments/P02/json.hpp) | json file for program. |
+|   5   | [rang.hpp](https://github.com/thehighestbidder/3013-Algorithms/blob/main/Assignments/P02/rang.hpp)| rang file for the program. |
+
 
 
 
