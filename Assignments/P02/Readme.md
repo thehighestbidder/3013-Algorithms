@@ -8,8 +8,8 @@ This program is a sophisticated and user-friendly console application designed t
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   |  main.cpp       | Main driver of my project the program      |
-|   2   |   | Helper class that holds movement functions         |
+|   1   |  [main.cpp](https://github.com/thehighestbidder/3013-Algorithms/blob/main/Assignments/P02/main.cpp) | Main driver of my project the program      |
+|   2   |  [console.hpp](https://github.com/thehighestbidder/3013-Algorithms/blob/main/Assignments/P02/console.hpp) | Console File for project      |
 |   3   |  | Helper class that assists with textures and images |
 
 
