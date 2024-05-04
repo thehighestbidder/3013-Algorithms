@@ -24,7 +24,5 @@ This program is a sophisticated and user-friendly console application designed t
 </pre>
 
 
-Example output with searching 'blac'
-black blackcock blackhead blacktail blackball
 
 
